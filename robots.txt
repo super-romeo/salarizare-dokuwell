@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://salarizare.dokuwell.com/sitemap.xml
+Sitemap: https://salarizare.dokuline.com/sitemap.xml
